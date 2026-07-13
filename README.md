@@ -1,4 +1,4 @@
-<imag src="https://media.licdn.com/dms/image/v2/D5616AQGgmgjXwPpK_w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1737551320347?e=1785369600&v=beta&t=qV1bX8EbNO-Pba8tDe4C1oW0gUlUN-c_6_60WH_WCvo">
+<imag src="https://media.licdn.com/dms/image/v2/D4E16AQFjtIw7FG9BYA/profile-displaybackgroundimage-shrink_350_1400/B4EZ9cy7BlIcAY-/0/1783968280977?e=1785369600&v=beta&t=48PIFNFtiIvHDXHi4IKp7ZCZtYXcGQksu09vl7m2hH8">
 <h1 align="center"> I am SHEKH HABEBULLAH</h1>
 <h3 align="center">Passionate Web Design, Developer and WordPress expert with a strong focus on creating user-friendly responsive website.</h3>
 
