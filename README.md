@@ -1,5 +1,5 @@
 <imag src="https://media.licdn.com/dms/image/v2/D4E16AQFjtIw7FG9BYA/profile-displaybackgroundimage-shrink_350_1400/B4EZ9cy7BlIcAY-/0/1783968280977?e=1785369600&v=beta&t=48PIFNFtiIvHDXHi4IKp7ZCZtYXcGQksu09vl7m2hH8">
-<h1 align="center"> I am SHEKH HABEBULLAH</h1>
+<h1 align="center">SHEKH HABEBULLAH</h1>
 <h3 align="center">Passionate Web Design, Developer and WordPress expert with a strong focus on creating user-friendly responsive website.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdeveloperhabeb&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveloperhabeb" /> </p>
